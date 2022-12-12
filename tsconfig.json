@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "ES2017",
+    "lib": ["ES2019", "DOM", "ES2020.Promise"],
+    "module": "CommonJS",
+    "jsx": "react",
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "moduleResolution": "Node",
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "declaration": true,
+    "sourceMap": true,
+    "skipLibCheck": true,
+    "resolveJsonModule": true
+  }
+}
